@@ -106,16 +106,13 @@ An AI-powered personalized learning platform designed to provide students with a
 
 ---
 
-### ☁️ Cloud & AI Experiments
+### ⚖️ NyayaAI — Judicial Case Backlog Prediction & Triage
 
-A collection of projects and experiments exploring:
+An AI-powered decision-support system designed to predict case resolution timelines and help prioritize judicial cases using explainable and auditable AI.
 
-- APIs and API integration
-- Cloud computing
-- AI tools and LLMs
-- Agentic workflows
-- Backend development
-- Deployment
+**Features:** Resolution-time prediction · Case triage · Undertrial monitoring · Explainable AI · Human-in-the-loop review · Court dashboard · Audit logs
+
+**Tech:** Python · FastAPI · React · PostgreSQL · Pandas · NumPy · Scikit-Learn · XGBoost · SHAP
 
 ---
 
