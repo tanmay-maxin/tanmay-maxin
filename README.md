@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/manthan-ghodkhande/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/tanmay-ramteke//">LinkedIn</a> ·
   <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="https://github.com/manthan707-ds">GitHub</a> ·
+  <a href="https://github.com/tanmay-maxin">GitHub</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>
 
@@ -121,10 +121,10 @@ Analyzed engagement patterns across posting times using Pandas time-based groupi
 
 ## 🤝 Connect With Me
 
-- GitHub "https://github.com/manthan707-ds"
-- LinkedIn "https://www.linkedin.com/in/manthan-ghodkhande/"
+- GitHub "https://github.com/tanmay-maxin"
+- LinkedIn "https://www.linkedin.com/in/tanmay-ramteke/"
 
 
 ---
 
-⭐ From Manthan
+⭐ From Tanmay
