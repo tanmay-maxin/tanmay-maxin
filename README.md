@@ -106,7 +106,7 @@ An AI-powered personalized learning platform designed to provide students with a
 
 ---
 
-### ⚖️ NyayaAI — Judicial Case Backlog Prediction & Triage
+### ⚖️ Judicial AI Triage — Judicial Case Backlog Prediction & Triage
 
 An AI-powered decision-support system designed to predict case resolution timelines and help prioritize judicial cases using explainable and auditable AI.
 
